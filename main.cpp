@@ -10,7 +10,6 @@ void cout_vector(const std::vector<std::string>& v)
   std::cout << "\n";
 }
 
-
 int main(int argc, char* argv[])
 {
   const std::vector<std::string> args(argv, argv + argc);

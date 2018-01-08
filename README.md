@@ -2,7 +2,7 @@
 
 Branch|[Travis CI](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_show_args.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_show_args)|[![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_show_args/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_show_args/branch/master)
+master|[![Build Status](https://travis-ci.org/CarmenIJsebaart/correct_cpp_show_args.svg?branch=master)](https://travis-ci.org/CarmenIJsebaart/correct_cpp_show_args)|[![codecov.io](https://codecov.io/github/CarmenIJsebaart/correct_cpp_show_args/coverage.svg?branch=master)](https://codecov.io/github/CarmenIJsebaart/correct_cpp_show_args/branch/master)
 
 [Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Show CLI arguments'.
 

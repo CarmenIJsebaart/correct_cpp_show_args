@@ -4,9 +4,9 @@
 #include <string>
 #include <vector>
 
-void cout_vector(const std::vector<std::string>& v)
+void cout_vector(const std::vector<std::string>& vector)
 {
-  std::copy(std::begin(v), std::end(v), std::ostream_iterator<std::string>(std::cout, " "));
+  std::copy(std::begin(vector), std::end(vector), std::ostream_iterator<std::string>(std::cout, " "));
   std::cout << "\n";
 }
 
